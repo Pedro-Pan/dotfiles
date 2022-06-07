@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Pedro.Vilarinho.a@outlook.com
+	name = Pedro Vilarinho
